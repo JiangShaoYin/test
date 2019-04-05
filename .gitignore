@@ -1,2 +1,2 @@
-*.cc
-!2.cc
+data/
+pic/*
